@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+naszepieski.pl	TRUE	/	FALSE	1999999999	PHPSESSID	1urbim4820boi86u8672s88opn
+tiktok.com	TRUE	/	FALSE	1999999999	_ttp	2hgwPdqeSJtvwBmE0TK1K1FUZMo
+analytics.tiktok.com	TRUE	/	FALSE	1999999999	SameSite	None
+
